@@ -24,4 +24,5 @@
 
 用户互动与社区
 我们的平台不仅提供观看功能，还设有评论区和评分系统。用户可以发表对影片的评价，与其他影迷交流观后感。通过与社区成员互动，你可以发现更多好片，分享自己的观影心得，提升观看体验。
-<span style="display:none;">[Canonical link](）</span>
+
+<span style="display:none;">[Canonical link](https://github.com/syx143/1234 ）</span>
